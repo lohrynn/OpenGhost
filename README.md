@@ -155,6 +155,8 @@ npm start
 - macOS: `npm run dist:mac` makes `dist/OpenGhost-<version>-mac.dmg`
 - Linux: `npm run dist:linux` makes `dist/OpenGhost-<version>-linux.tar.gz`
 
+The macOS installer also needs Xcode 26 or newer, with its command line tools selected, to build the icon's light and dark appearances.
+
 No Mac or Linux machine at hand? A fork can build both on GitHub: turn on Actions, open Build and press Run workflow. The files appear on the page of that run.
 
 ## Support the project

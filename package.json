@@ -48,7 +48,7 @@
     },
     "mac": {
       "target": "dmg",
-      "icon": "desktop/icon.png",
+      "icon": "desktop/icon.icon",
       "category": "public.app-category.utilities",
       "artifactName": "OpenGhost-${version}-mac.${ext}",
       "identity": "-",
